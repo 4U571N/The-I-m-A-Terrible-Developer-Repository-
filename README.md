@@ -1,2 +1,2 @@
 # The-Im-A-Terrible-Developer-Repository-
-I don't yet know quite one I'm doing I'm terrible at coding, but I am in a way learning (just very slowly), so that's why this is the name of my repository ~~pill~~
+I Don't yet Quite Know What I'm Doing && I'm Terrible At Coding, But I Am In A Way Learning (Just Very Slowly), So That's Why This Is The Name Of My Repository ~~pill~~
