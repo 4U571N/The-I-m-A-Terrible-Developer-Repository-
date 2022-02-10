@@ -1,3 +1,2 @@
-# The Im A Terrible Developer Repository
-I Don't yet Quite Know What I'm Doing && I'm Terrible At Coding, But I Am In A Way Learning (Just Very Slowly), So That's Why This Is The Name Of My Repository ~~pill~~ <!-- Thats A Suppository Pill Joke Because They Sound Similar -->
-
+# The I’m a terrible developer repository
+I don't yet quite know what I’m doing && I’m terrible at coding, but I am in a way learning (just very slowly), so that's why this is the name of my repository ~~pill~~ (thats a suppository pill joke because they sound similar)
